@@ -1,3 +1,3 @@
 # StriversSDESheet
 
-Collection Of All problems i have solved during StriversSDESheetChallenge
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
